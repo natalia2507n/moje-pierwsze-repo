@@ -1,3 +1,4 @@
+DevOps w Kozminskim. W sobote 07.06. Kozminalia.
 # moje-pierwsze-repo
 ## repo-do-nauki
 -DevOps
