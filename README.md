@@ -1,5 +1,6 @@
 # moje-pierwsze-repo
 ## repo-do-nauki
+-CI/CD
 -DevOps
 -GitHub
 **IaC** *Terraform*
