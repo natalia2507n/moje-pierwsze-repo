@@ -1,3 +1,4 @@
+# Galezie w Git
 # moje-pierwsze-repo
 ## repo-do-nauki
 -CI/CD
